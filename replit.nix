@@ -8,3 +8,5 @@
     pip install telebot pymongo python-dotenv openai==0.28 yt_dlp googletrans transformers colorama Pillow beautifulsoup4
   '';
 }
+
+# rep
